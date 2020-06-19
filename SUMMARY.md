@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Coding\_Notes](README.md)
+
+## Binary\_Search
+
+* [14. Classical Binary Search](binary_search/14.-classical-binary-search.md)
 
